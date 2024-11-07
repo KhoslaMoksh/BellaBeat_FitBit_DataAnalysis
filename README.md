@@ -14,3 +14,5 @@ data analysis process:
 Along the way, the Case Study Roadmap tables —
 including guiding questions and key tasks.
 
+https://www.kaggle.com/datasets/arashnic/fitbit?resource=download
+
