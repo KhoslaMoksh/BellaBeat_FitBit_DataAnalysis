@@ -5,11 +5,11 @@ Welcome to the Bellabeat data analysis case study! In this case study, I will pe
 
 To address the key business questions, I will follow the steps of the data analysis process:
 
-Ask
-Prepare
-Process
-Analyze
-Share
+Ask ->
+Prepare ->
+Process ->
+Analyze ->
+Share ->
 Act
 
 Along the way, I will use the Case Study Roadmap tables, which include guiding questions and key tasks.
