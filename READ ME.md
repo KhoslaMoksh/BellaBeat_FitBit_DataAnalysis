@@ -1,4 +1,4 @@
-# GoogleDataAnalytics_CaseStudy
+# BellaBeat_FitBit_DataAnalysis
 Introduction
 
 Welcome to the Bellabeat data analysis case study! In this case study, I will perform many real-world tasks of a junior data
