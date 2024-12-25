@@ -1,18 +1,19 @@
 # BellaBeat_FitBit_DataAnalysis
-Introduction
+## Project Overview
+This project is part of my journey towards earning the Google Data Analytics Professional Certification. In this case study, I assume the role of a junior data analyst working for Bellabeat, a company that designs high-tech health-focused products for women. The goal of the analysis is to extract valuable insights from a Fitbit dataset to address key business questions.
 
-Welcome to the Bellabeat data analysis case study! In this case study, I will perform various real-world tasks of a junior data analyst. I imagine myself working for Bellabeat, a high-tech manufacturer of health-focused products for women, and interacting with different team members as part of my final step to earn the Google Data Analytics Professional Certification.
+Throughout the project, I follow the standard data analysis process:
 
-To address the key business questions, I will follow the steps of the data analysis process:
+#### Ask: Define the business questions.
+#### Prepare: Gather and clean the data.
+#### Process: Prepare the data for analysis.
+#### Analyze: Conduct exploratory data analysis to uncover patterns.
+#### Share: Visualize findings and prepare a report.
+#### Act: Provide actionable recommendations.
+Dataset
+The dataset used for this analysis is the Fitbit data available on Kaggle: [Fitbit Dataset](https://www.kaggle.com/datasets/arashnic/fitbit).
 
-Ask ->
-Prepare ->
-Process ->
-Analyze ->
-Share ->
-Act
+This project demonstrates my ability to conduct a full data analysis workflow, from data cleaning to generating insights. Check out the project files to see the code, visualizations, and detailed reports!
 
-Along the way, I will use the Case Study Roadmap tables, which include guiding questions and key tasks.
 
-Dataset: https://www.kaggle.com/datasets/arashnic/fitbit?resource=download
 
